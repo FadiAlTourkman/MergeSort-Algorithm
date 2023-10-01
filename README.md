@@ -1,2 +1,2 @@
 # MergeSort-Algorithm
-Created a NetBeans app demonstrating descending order sorting using merge sort on a set of 10 items. Employed a custom class, MyArrayList, extending ArrayList with this sorting algorithm. Enhanced it to measure and display comparison count for efficiency evaluation.
+Developed a NetBeans application showcasing a descending order sorting algorithm (e.g., merge sort) on a predefined collection of 10 items. Utilized a custom class, MyArrayList, extending ArrayList and integrating the sorting algorithm. Additionally, enhanced the application to measure and display the algorithm's efficiency through the total number of comparisons performed for the given item collection.
